@@ -1,0 +1,9 @@
+{
+  "prompt": "ROMEO:",
+  "seed": 1337,
+  "new_characters": 600,
+  "device": "cpu",
+  "checkpoint_step": 5000,
+  "checkpoint_sha256": "fba101cf5a29825e63ad5adbd2f77c883b9a0be1498e4c4d4275ba5da4a9ce8e",
+  "checkpoint_path": "Models/TransformerWeights/best.pt"
+}

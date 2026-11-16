@@ -1,0 +1,21 @@
+{
+  "step": 5000,
+  "losses": {
+    "train": 1.2799952030181885,
+    "val": 1.5191729068756104
+  },
+  "model_config": {
+    "vocab_size": 65,
+    "n_embed": 384,
+    "block_size": 256,
+    "n_head": 6,
+    "n_layer": 6
+  },
+  "sha256": {
+    "best.pt": "fba101cf5a29825e63ad5adbd2f77c883b9a0be1498e4c4d4275ba5da4a9ce8e",
+    "latest.pt": "edb13bcf8443af024c563ff41d0ffef64cb8237898336435d0b5c5ba400f8d64"
+  },
+  "combined_loss_points": 21,
+  "resume_step": 1250,
+  "best_and_latest_weights_identical": true
+}
